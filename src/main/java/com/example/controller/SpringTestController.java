@@ -29,7 +29,7 @@ public class SpringTestController {
 
     @RequestMapping("/hello")
     public String hello(Model model) {
-        model.addAttribute("name","yuanfei");
+        model.addAttribute("name","高炯");
         return "hello";
     }
     @ResponseBody
