@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b179e8e5-0614-4f85-a651-60d9d4b3b872" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/application.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/DemoApplication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/SpringTestController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/dao/UserMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/ServletInitializer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/pojo/User.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/hello.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/example/demo/DemoApplicationTests.class" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/SpringTestController.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/SpringTestController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,8 +73,8 @@
       <file leaf-file-name="SpringTestController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/controller/SpringTestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="31" column="37" lean-forward="false" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+            <state relative-caret-position="424">
+              <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -538,7 +530,7 @@
       <workItem from="1552037974369" duration="835000" />
       <workItem from="1552038828428" duration="398000" />
       <workItem from="1552267724272" duration="7671000" />
-      <workItem from="1552353299351" duration="11025000" />
+      <workItem from="1552353299351" duration="11924000" />
     </task>
     <task id="LOCAL-00001" summary="git 第一次提交">
       <created>1552377124064</created>
@@ -561,7 +553,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552379892171</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" 改动">
+      <created>1552384191924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552384191924</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -576,7 +575,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27997000" />
+    <option name="totallyTimeSpent" value="28896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -656,7 +655,8 @@
     <MESSAGE value="git 第一次提交" />
     <MESSAGE value="git 第2次提交" />
     <MESSAGE value=" 删除ap方法" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 删除ap方法" />
+    <MESSAGE value=" 改动" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 改动" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1060,8 +1060,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/controller/SpringTestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="31" column="37" lean-forward="false" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        <state relative-caret-position="424">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
