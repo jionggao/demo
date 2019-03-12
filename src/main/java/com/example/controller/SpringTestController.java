@@ -26,11 +26,6 @@ public class SpringTestController {
 
     @Autowired
     private UserMapper userMapper;
-        @RequestMapping("/ap")
-        public Object dow() {
-           log.info("咖啡店更丰富来得及关联方");
-            return "你好,springBoot,";
-        }
 
     @RequestMapping("/hello")
     public String hello(Model model) {

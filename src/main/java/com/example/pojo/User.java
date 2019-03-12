@@ -26,6 +26,5 @@ public class User {
     private  String eMail;
     private  String idNum;
     private String password;
-    private Date createTime;
 
 }
